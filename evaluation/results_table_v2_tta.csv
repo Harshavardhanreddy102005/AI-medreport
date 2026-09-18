@@ -1,0 +1,15 @@
+label,auc,n_positive
+Emphysema,0.939,331
+Cardiomegaly,0.918,492
+Hernia,0.914,33
+Pneumothorax,0.901,714
+Edema,0.893,372
+Effusion,0.879,2110
+Mass,0.863,868
+Fibrosis,0.828,240
+Atelectasis,0.827,1758
+Consolidation,0.818,712
+Pleural_Thickening,0.814,496
+Nodule,0.809,920
+Pneumonia,0.756,192
+Infiltration,0.719,3005
