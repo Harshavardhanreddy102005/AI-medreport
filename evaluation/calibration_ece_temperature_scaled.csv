@@ -1,0 +1,15 @@
+label,ece_calibrated
+Infiltration,0.3038
+Consolidation,0.2629
+Atelectasis,0.2477
+Mass,0.2254
+Effusion,0.2167
+Nodule,0.1893
+Pneumothorax,0.1888
+Pleural_Thickening,0.1345
+Edema,0.1205
+Cardiomegaly,0.1154
+Fibrosis,0.0812
+Emphysema,0.0682
+Pneumonia,0.0437
+Hernia,0.004
